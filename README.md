@@ -1,6 +1,6 @@
 ### Hi there 👋
     🔭 I’m currently working on a Portfolio Website!
-    🌱 I’m currently learning HTML, CSS and JavaScript.
+    🌱 I’m currently learning HTML, CSS, JavaScript and SQL.
 
 <!--
 **ElijahMPalmer/ElijahMPalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
