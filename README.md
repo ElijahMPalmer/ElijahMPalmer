@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://github.com/ElijahMPalmer/Github-Stats/blob/master/generated/languages.svg)
+![](https://github.com/ElijahMPalmer/Github-Stats/blob/master/generated/overview.svg)
     🔭 I’m currently working on a Portfolio Website!  https://elijah-palmer.herokuapp.com/
     🌱 I’m currently learning HTML, CSS, JavaScript and SQL.
 
