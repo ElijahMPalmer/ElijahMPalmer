@@ -15,5 +15,6 @@ I have 4 years of honorable military service in the U.S. Marine Corps as a maint
 * [Check out my Portfolio! :art:](https://elijah-palmer.herokuapp.com/)
 * [Connect with me on LinkedIn! :link:](https://www.linkedin.com/in/elijah-palmer/)
 * [Shoot me an email! :mailbox:](mailto:palmermelijah@gmail.com)
-
-<img align="center" src="giphy.webp" width="950" height="300">
+<p align="center">
+<img src="giphy.webp" width="950" height="300">
+</p>
