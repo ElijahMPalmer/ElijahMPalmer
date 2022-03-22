@@ -1,5 +1,7 @@
 ## Hi there! I'm Elijah! 👋
 I'm a Software Engineer with experience ranging from Embedded Systems (Arduino/ Raspberry Pi) to Web App Development (PERN Stack) with some dabbling in Java.
+
+##My Stats
 ![](https://github.com/ElijahMPalmer/Github-Stats/blob/master/generated/languages.svg)
 ![](https://github.com/ElijahMPalmer/Github-Stats/blob/master/generated/overview.svg)
    
