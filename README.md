@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! I'm Elijah! 👋
 ![](https://github.com/ElijahMPalmer/Github-Stats/blob/master/generated/languages.svg)
 ![](https://github.com/ElijahMPalmer/Github-Stats/blob/master/generated/overview.svg)
     🔭 I’m currently working on a Portfolio Website!  https://elijah-palmer.herokuapp.com/
