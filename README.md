@@ -17,3 +17,4 @@ I have 4 years of honorable military service in the U.S. Marine Corps as a maint
 * [Shoot me an email! :mailbox:](mailto:palmermelijah@gmail.com)
 
 ![](giphy.webp)
+<img src="giphy.webp" width="100" height="100">
