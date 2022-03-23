@@ -17,6 +17,9 @@ I have 4 years of honorable military service in the U.S. Marine Corps as a maint
     - Core Technologies: HTML, CSS, JavaScript, DOM API, FullPageJS FrameWork, JQuery, and 3rd Party API to parse data.
     - A user can type in their vehicle's VIN and find basic details about the vehicle, such as engine type and horsepower. It also provides the user with links to Owners Manuals and Maintenance Forums specific to their make of vehicle.
     - My plan for this project is also to be an online vehicle logbook for users to track their maintenance tasks and be reminded when certain maintenance intervals are coming soon.
+- Sun-Kissed Jewelry Landing Page
+    - This project is still in the planning and discovery phase!
+    - More to come soon!
     
 ## Find me around the interwebs! :earth_americas:
 
