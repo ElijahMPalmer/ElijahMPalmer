@@ -11,6 +11,12 @@ I have 4 years of honorable military service in the U.S. Marine Corps as a maint
 
 ## Work in Progress 🔨
 - Car-Wiz
+    - A resource hub for car owners to find resources for maintenance on their vehicles easily.
+    - [Live Site](http://car-wiz.surge.sh/)
+    - [Repo](https://github.com/ElijahMPalmer/Car-Wiz)
+    - Core Technologies: HTML, CSS, JavaScript, DOM API, FullPageJS FrameWork, JQuery, and 3rd Party API to parse data.
+    - A user can type in their vehicle's VIN and find basic details about the vehicle, such as engine type and horsepower. It also provides the user with links to Owners Manuals and Maintenance Forums specific to their make of vehicle.
+    - My plan for this project is also to be an online vehicle logbook for users to track their maintenance tasks and be reminded when certain maintenance intervals are coming soon.
     
 ## Find me around the interwebs! :earth_americas:
 
