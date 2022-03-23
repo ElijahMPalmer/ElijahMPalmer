@@ -9,7 +9,7 @@ I have 4 years of honorable military service in the U.S. Marine Corps as a maint
 ![](https://github.com/ElijahMPalmer/Github-Stats/blob/master/generated/languages.svg)
 ![](https://github.com/ElijahMPalmer/Github-Stats/blob/master/generated/overview.svg)
 
-## Work in Progress 🔨
+## What am I working on? 🔨
 - Car-Wiz
     - A resource hub for car owners to find resources for maintenance on their vehicles easily.
     - [Live Site](http://car-wiz.surge.sh/)
@@ -19,7 +19,7 @@ I have 4 years of honorable military service in the U.S. Marine Corps as a maint
     - My plan for this project is also to be an online vehicle logbook for users to track their maintenance tasks and be reminded when certain maintenance intervals are coming soon.
 - Sun-Kissed Jewelry Landing Page
     - This project is still in the planning and discovery phase!
-    - More to come soon!
+    - More to come soon! 👀
     
 ## Find me around the interwebs! :earth_americas:
 
